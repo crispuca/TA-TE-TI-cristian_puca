@@ -1,0 +1,43 @@
+html.body {
+    height: 100%;
+    position: relative;
+}
+
+#cover {
+    text-align: center;
+    background-image: url(../img/piso-madera.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    color: black;
+    padding-top: 10px;
+}
+
+.boton {
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+}
+
+#nombre1 {
+    height: 50px;
+    width: 190px;
+    position: absolute;
+}
+
+#nombre2 {
+    height: 50px;
+    width: 190px;
+    float: right;
+}
+
+#inicio {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#ganador {
+    height: 48px;
+}
